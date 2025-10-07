@@ -141,7 +141,7 @@ The goal of this project is to transform raw banking data into a **visually inte
 
 ## 🏁 Outcome
 
-This project showcases the end-to-end process of building an **interactive Excel dashboard** — from raw data transformation to insight communication.  
+This project showcases the end-to-end process of building an **interactive Excel dashboard**, from raw data transformation to insight communication.  
 It reflects the ability to apply design thinking, analytical reasoning, and business understanding to solve real-world data problems.
 
 ---
