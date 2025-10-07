@@ -1,4 +1,5 @@
-# METROBANK CASESTUDY
+# <img width="256" height="145" alt="image" src="https://github.com/user-attachments/assets/9ff992e0-384a-4503-9408-3110992113e6" />
+ METROBANK CASESTUDY
 This project focuses on helping MetroBank, a leading financial institution, uncover insights about its customers, branches, transactions, and service experience through data.
 With growing competition and an increasing number of customer complaints, the management wanted to understand what drives performance across different segments, and identify areas that require strategic improvement.
 That’s where I came in as the data analyst, tasked with cleaning, analyzing, and visualizing the bank’s data to build an interactive Excel dashboard that tells the complete story behind its operations and customer experience.
