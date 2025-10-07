@@ -1,4 +1,5 @@
- <img width="256" height="145" alt="image" src="https://github.com/user-attachments/assets/9ff992e0-384a-4503-9408-3110992113e6" />
+ ### <img width="256" height="145" alt="image" src="https://github.com/user-attachments/assets/9ff992e0-384a-4503-9408-3110992113e6" />
+ 
 # METROBANK CASESTUDY
 This project focuses on helping MetroBank, a leading financial institution, uncover insights about its customers, branches, transactions, and service experience through data.
 With growing competition and an increasing number of customer complaints, the management wanted to understand what drives performance across different segments, and identify areas that require strategic improvement.
