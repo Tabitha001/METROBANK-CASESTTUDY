@@ -69,7 +69,8 @@ The goal of this project is to transform raw banking data into a **visually inte
 ## 📈 Key Insights
 
 - **Customer Overview:** MetroBank serves a balanced customer base (51% female, 49% male) with an average age of 46 and an average tenure of 5 years. Most customers fall within the *Retail segment*, which, although smaller in average income, represents the largest customer count.
-  <img width="768" height="463" alt="image" src="https://github.com/user-attachments/assets/f251192a-0424-4ad9-9b16-50344acf66b7" />
+<img width="758" height="458" alt="image" src="https://github.com/user-attachments/assets/04e5678c-5423-4e44-9e69-697589bd5705" />
+
 
 
 - **Income & Loyalty:** Customers with *Premium* and *High-income* tiers make up a significant share of total revenue. A majority of clients are “Established” or “Loyal,” indicating strong retention and trust in the bank’s services.  
