@@ -1,4 +1,4 @@
-# METROBANK-CASESTUDY
+# METROBANK CASESTUDY
 This project focuses on helping MetroBank, a leading financial institution, uncover insights about its customers, branches, transactions, and service experience through data.
 With growing competition and an increasing number of customer complaints, the management wanted to understand what drives performance across different segments, and identify areas that require strategic improvement.
 That’s where I came in as the data analyst, tasked with cleaning, analyzing, and visualizing the bank’s data to build an interactive Excel dashboard that tells the complete story behind its operations and customer experience.
