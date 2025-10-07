@@ -1,5 +1,7 @@
 # METROBANK-CASESTUDY
-An interactive Excel dashboard built to analyze MetroBank’s business performance, from customer profiling to financial activity, transaction behavior, and customer experience.   This project demonstrates how Excel can be used to design a dynamic, insight-driven reporting system for decision-makers in the banking sector.
+This project focuses on helping MetroBank, a leading financial institution, uncover insights about its customers, branches, transactions, and service experience through data.
+With growing competition and an increasing number of customer complaints, the management wanted to understand what drives performance across different segments, and identify areas that require strategic improvement.
+That’s where I came in as the data analyst, tasked with cleaning, analyzing, and visualizing the bank’s data to build an interactive Excel dashboard that tells the complete story behind its operations and customer experience.
 
 ---
 
@@ -140,7 +142,7 @@ It reflects the ability to apply design thinking, analytical reasoning, and busi
 ## 📂 Data Source  
 
 The datasets used in this project were provided by ** FREEDOM OBOH ** as part of a practical assignment under the **Let's Talk Excel Program**.  
-They include anonymized banking data covering customers, accounts, transactions, branches, and complaints.  
+They include realistic banking data covering customers, accounts, transactions, branches, and complaints.  
 
 All cleaning, analysis, and visualizations were performed independently using **Microsoft Excel** for educational and project-based learning purposes.
 
@@ -148,4 +150,5 @@ All cleaning, analysis, and visualizations were performed independently using **
 ## 👩‍💼 About the Analyst  
 
 Prepared by **Dorcas Akinnibosun** — *Data Analyst*
+
 Focused on turning data into clear, actionable insights to support better decision-making.
