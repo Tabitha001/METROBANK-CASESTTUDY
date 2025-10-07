@@ -68,7 +68,9 @@ The goal of this project is to transform raw banking data into a **visually inte
 
 ## 📈 Key Insights
 
-- **Customer Overview:** MetroBank serves a balanced customer base (51% female, 49% male) with an average age of 46 and an average tenure of 5 years. Most customers fall within the *Retail segment*, which, although smaller in average income, represents the largest customer count.  
+- **Customer Overview:** MetroBank serves a balanced customer base (51% female, 49% male) with an average age of 46 and an average tenure of 5 years. Most customers fall within the *Retail segment*, which, although smaller in average income, represents the largest customer count.
+  <img width="768" height="463" alt="image" src="https://github.com/user-attachments/assets/f251192a-0424-4ad9-9b16-50344acf66b7" />
+
 
 - **Income & Loyalty:** Customers with *Premium* and *High-income* tiers make up a significant share of total revenue. A majority of clients are “Established” or “Loyal,” indicating strong retention and trust in the bank’s services.  
 
@@ -78,7 +80,9 @@ The goal of this project is to transform raw banking data into a **visually inte
 
 - **Merchant Activity:** Major merchants such as *Airbnb, Apple, and Target* dominate customer spending, accounting for the highest transaction values. Credit card customers show a stronger presence in “Payment” transactions compared to non-credit users.  
 
-- **Branch Performance:** MetroBank operates **20 branches** with a total revenue of **$59.4M** and a profit margin of **64%**. *Branch 12* is the top performer by profit, while *Branch 1* and *Branch 17* currently operate at a loss, suggesting room for operational optimization.  
+- **Branch Performance:** MetroBank operates **20 branches** with a total revenue of **$59.4M** and a profit margin of **64%**. *Branch 12* is the top performer by profit, while *Branch 1* and *Branch 17* currently operate at a loss, suggesting room for operational optimization.
+<img width="872" height="503" alt="image" src="https://github.com/user-attachments/assets/1e885492-1afd-4dec-b0bc-5d561ef9c660" />
+
 
 
 - **Customer Experience & Risk:** MetroBank recorded **800 total complaints**, of which **59% were resolved** and **41% remain unresolved**, with an **average resolution time of 30 days**. The most common issues were **Charges Dispute (23%)**, **Fraud (18%)**, and **Service Delay (20%)**. Although fraud does not dominate total complaints, it remains a critical risk area — with around **38% of fraud cases still open or in progress**. Non-credit card customers reported more service delays and fraud issues, while **high-value customers** lodged the highest number of complaints, indicating a potential **retention risk** that requires focused attention.  
